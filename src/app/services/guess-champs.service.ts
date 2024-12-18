@@ -21,7 +21,7 @@ export class GuessChampsService {
   }
 
   initGame(allChamps: Champ[]): void {
-    const randomChamps = allChamps.sort(() => Math.random() - 0.5).slice(0, 1);
+    const randomChamps = allChamps.sort(() => Math.random() - 0.5).slice(0, 10);
     this.champs = randomChamps;
     this.winners = [];
   }
