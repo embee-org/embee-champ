@@ -531,6 +531,126 @@
     {
       "name": "Tryndamere",
       "folder": "tryndamere"
+    },
+    {
+      "name": "Twisted Fate",
+      "folder": "twistedfate"
+    },
+    {
+      "name": "Twitch",
+      "folder": "twitch"
+    },
+    {
+      "name": "Udyr",
+      "folder": "udyr"
+    },
+    {
+      "name": "Urgot",
+      "folder": "urgot"
+    },
+    {
+      "name": "Varus",
+      "folder": "varus"
+    },
+    {
+      "name": "Vayne",
+      "folder": "vayne"
+    },
+    {
+      "name": "Veigar",
+      "folder": "veigar"
+    },
+    {
+      "name": "Vel'Koz",
+      "folder": "velkoz"
+    },
+    {
+      "name": "Vex",
+      "folder": "vex"
+    },
+    {
+      "name": "Vi",
+      "folder": "vi"
+    },
+    {
+      "name": "Viego",
+      "folder": "viego"
+    },
+    {
+      "name": "Viktor",
+      "folder": "viktor"
+    },
+    {
+      "name": "Vladimir",
+      "folder": "vladimir"
+    },
+    {
+      "name": "Volibear",
+      "folder": "volibear"
+    },
+    {
+      "name": "Warwick",
+      "folder": "warwick"
+    },
+    {
+      "name": "Wukong",
+      "folder": "wukong"
+    },
+    {
+      "name": "Xayah",
+      "folder": "xayah"
+    },
+    {
+      "name": "Xerath",
+      "folder": "xerath"
+    },
+    {
+      "name": "Xin Zhao",
+      "folder": "xinzhao"
+    },
+    {
+      "name": "Yasuo",
+      "folder": "yasuo"
+    },
+    {
+      "name": "Yone",
+      "folder": "yone"
+    },
+    {
+      "name": "Yorick",
+      "folder": "yorick"
+    },
+    {
+      "name": "Yuumi",
+      "folder": "yuumi"
+    },
+    {
+      "name": "Zac",
+      "folder": "zac"
+    },
+    {
+      "name": "Zed",
+      "folder": "zed"
+    },
+    {
+      "name": "Zeri",
+      "folder": "zeri"
+    },
+    {
+      "name": "Ziggs",
+      "folder": "ziggs"
+    },
+    {
+      "name": "Zilean",
+      "folder": "zilean"
+    },
+    {
+      "name": "Zoe",
+      "folder": "zoe"
+    },
+    {
+      "name": "Zyra",
+      "folder": "zyra"
     }
   ]
 }
