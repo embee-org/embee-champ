@@ -1,0 +1,9 @@
+<main [hidden]="!champs.length" class="bg-[#000000e5] p-4 w-[450px] h-[180px]">
+  @if(isInitialStep) {
+  <app-game-presentation></app-game-presentation>
+  } @else if(isGuessChampStep) {
+  <app-game-ranking [allChamps]="champs"></app-game-ranking>
+  } @else if(isFinishGameStep) {
+  <app-guess-champion></app-guess-champion>
+  }
+</main>

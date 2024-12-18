@@ -1,0 +1,18 @@
+@if(show) {
+<img
+  src="/champs/{{ folder }}/{{ url }}"
+  width="70"
+  height="70"
+  alt="Passive skill"
+/>
+
+} @else {
+<div class="bg-red-500 flex items-center justify-center w-[70px] h-[70px]">
+  <img
+    src="/icons/question-circle.png"
+    width="50"
+    height="50"
+    alt="Question circle"
+  />
+</div>
+}

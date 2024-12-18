@@ -1,0 +1,496 @@
+{
+  "champs": [
+    {
+      "name": "Aatrox",
+      "folder": "aatrox"
+    },
+    {
+      "name": "Ahri",
+      "folder": "ahri"
+    },
+    {
+      "name": "Akali",
+      "folder": "akali"
+    },
+    {
+      "name": "Akshan",
+      "folder": "akshan"
+    },
+    {
+      "name": "Alistar",
+      "folder": "alistar"
+    },
+    {
+      "name": "Ambessa",
+      "folder": "ambessa"
+    },
+    {
+      "name": "Amumu",
+      "folder": "amumu"
+    },
+    {
+      "name": "Anivia",
+      "folder": "anivia"
+    },
+    {
+      "name": "Annie",
+      "folder": "annie"
+    },
+    {
+      "name": "Aphelios",
+      "folder": "aphelios"
+    },
+    {
+      "name": "Ashe",
+      "folder": "ashe"
+    },
+    {
+      "name": "Aurelion Sol",
+      "folder": "aurelionsol"
+    },
+    {
+      "name": "Azir",
+      "folder": "azir"
+    },
+    {
+      "name": "Bardo",
+      "folder": "bard"
+    },
+    {
+      "name": "Bel'Veth",
+      "folder": "belveth"
+    },
+    {
+      "name": "Blitzcrank",
+      "folder": "blitzcrank"
+    },
+    {
+      "name": "Brand",
+      "folder": "brand"
+    },
+    {
+      "name": "Braum",
+      "folder": "braum"
+    },
+    {
+      "name": "Caitlyn",
+      "folder": "caitlyn"
+    },
+    {
+      "name": "Camille",
+      "folder": "camille"
+    },
+    {
+      "name": "Cassiopeia",
+      "folder": "cassiopeia"
+    },
+    {
+      "name": "Cho'Gath",
+      "folder": "chogath"
+    },
+    {
+      "name": "Corki",
+      "folder": "corki"
+    },
+    {
+      "name": "Darius",
+      "folder": "darius"
+    },
+    {
+      "name": "Diana",
+      "folder": "diana"
+    },
+    {
+      "name": "Draven",
+      "folder": "draven"
+    },
+    {
+      "name": "Dr. Mundo",
+      "folder": "drmundo"
+    },
+    {
+      "name": "Ekko",
+      "folder": "ekko"
+    },
+    {
+      "name": "Elise",
+      "folder": "elise"
+    },
+    {
+      "name": "Evelynn",
+      "folder": "evelynn"
+    },
+    {
+      "name": "Ezreal",
+      "folder": "ezreal"
+    },
+    {
+      "name": "Fiddlesticks",
+      "folder": "fiddlesticks"
+    },
+    {
+      "name": "Fiora",
+      "folder": "fiora"
+    },
+    {
+      "name": "Fizz",
+      "folder": "fizz"
+    },
+    {
+      "name": "Galio",
+      "folder": "galio"
+    },
+    {
+      "name": "Gangplank",
+      "folder": "gangplank"
+    },
+    {
+      "name": "Garen",
+      "folder": "garen"
+    },
+    {
+      "name": "Gnar",
+      "folder": "gnar"
+    },
+    {
+      "name": "Gragas",
+      "folder": "gragas"
+    },
+    {
+      "name": "Graves",
+      "folder": "graves"
+    },
+    {
+      "name": "Gwen",
+      "folder": "gwen"
+    },
+    {
+      "name": "Heimerdinger",
+      "folder": "heimerdinger"
+    },
+    {
+      "name": "Hwei",
+      "folder": "hwei"
+    },
+    {
+      "name": "Illaoi",
+      "folder": "illaoi"
+    },
+    {
+      "name": "Irelia",
+      "folder": "irelia"
+    },
+    {
+      "name": "Ivern",
+      "folder": "ivern"
+    },
+    {
+      "name": "Janna",
+      "folder": "janna"
+    },
+    {
+      "name": "Jarvan IV",
+      "folder": "jarvaniv"
+    },
+    {
+      "name": "Jax",
+      "folder": "jax"
+    },
+    {
+      "name": "Jayce",
+      "folder": "jayce"
+    },
+    {
+      "name": "Jinx",
+      "folder": "jinx"
+    },
+    {
+      "name": "Kai'Sa",
+      "folder": "kaisa"
+    },
+    {
+      "name": "Kalista",
+      "folder": "kalista"
+    },
+    {
+      "name": "Karma",
+      "folder": "karma"
+    },
+    {
+      "name": "Karthus",
+      "folder": "karthus"
+    },
+    {
+      "name": "Kassadin",
+      "folder": "kassadin"
+    },
+    {
+      "name": "Katarina",
+      "folder": "katarina"
+    },
+    {
+      "name": "Kayle",
+      "folder": "kayle"
+    },
+    {
+      "name": "Kennen",
+      "folder": "kennen"
+    },
+    {
+      "name": "Kha'Zix",
+      "folder": "khazix"
+    },
+    {
+      "name": "Kindred",
+      "folder": "kindred"
+    },
+    {
+      "name": "Kled",
+      "folder": "kled"
+    },
+    {
+      "name": "Kog'Maw",
+      "folder": "kogmaw"
+    },
+    {
+      "name": "K'Sante",
+      "folder": "ksante"
+    },
+    {
+      "name": "LeBlanc",
+      "folder": "leblanc"
+    },
+    {
+      "name": "Lee Sin",
+      "folder": "leesin"
+    },
+    {
+      "name": "Leona",
+      "folder": "leona"
+    },
+    {
+      "name": "Lissandra",
+      "folder": "lissandra"
+    },
+    {
+      "name": "Lucian",
+      "folder": "lucian"
+    },
+    {
+      "name": "Lulu",
+      "folder": "lulu"
+    },
+    {
+      "name": "Lux",
+      "folder": "lux"
+    },
+    {
+      "name": "Malphite",
+      "folder": "malphite"
+    },
+    {
+      "name": "Malzahar",
+      "folder": "malzahar"
+    },
+    {
+      "name": "Maokai",
+      "folder": "maokai"
+    },
+    {
+      "name": "Master Yi",
+      "folder": "masteryi"
+    },
+    {
+      "name": "Milio",
+      "folder": "milio"
+    },
+    {
+      "name": "Miss Fortune",
+      "folder": "missfortune"
+    },
+    {
+      "name": "Mordekaiser",
+      "folder": "mordekaiser"
+    },
+    {
+      "name": "Morgana",
+      "folder": "morgana"
+    },
+    {
+      "name": "Naafiri",
+      "folder": "naafiri"
+    },
+    {
+      "name": "Nami",
+      "folder": "nami"
+    },
+    {
+      "name": "Nasus",
+      "folder": "nasus"
+    },
+    {
+      "name": "Nautilus",
+      "folder": "nautilus"
+    },
+    {
+      "name": "Neeko",
+      "folder": "neeko"
+    },
+    {
+      "name": "Nidalee",
+      "folder": "nidalee"
+    },
+    {
+      "name": "Nilah",
+      "folder": "nilah"
+    },
+    {
+      "name": "Nocturne",
+      "folder": "nocturne"
+    },
+    {
+      "name": "Nunu y Willump",
+      "folder": "nunu"
+    },
+    {
+      "name": "Olaf",
+      "folder": "olaf"
+    },
+    {
+      "name": "Orianna",
+      "folder": "orianna"
+    },
+    {
+      "name": "Ornn",
+      "folder": "ornn"
+    },
+    {
+      "name": "Pantheon",
+      "folder": "pantheon"
+    },
+    {
+      "name": "Poppy",
+      "folder": "poppy"
+    },
+    {
+      "name": "Pyke",
+      "folder": "pyke"
+    },
+    {
+      "name": "Qiyana",
+      "folder": "qiyana"
+    },
+    {
+      "name": "Quinn",
+      "folder": "quinn"
+    },
+    {
+      "name": "Rakan",
+      "folder": "rakan"
+    },
+    {
+      "name": "Rammus",
+      "folder": "rammus"
+    },
+    {
+      "name": "Rek'Sai",
+      "folder": "reksai"
+    },
+    {
+      "name": "Rell",
+      "folder": "rell"
+    },
+    {
+      "name": "Renata",
+      "folder": "renata"
+    },
+    {
+      "name": "Renekton",
+      "folder": "renekton"
+    },
+    {
+      "name": "Rengar",
+      "folder": "rengar"
+    },
+    {
+      "name": "Riven",
+      "folder": "riven"
+    },
+    {
+      "name": "Rumble",
+      "folder": "rumble"
+    },
+    {
+      "name": "Ryze",
+      "folder": "ryze"
+    },
+    {
+      "name": "Samira",
+      "folder": "samira"
+    },
+    {
+      "name": "Sejuani",
+      "folder": "sejuani"
+    },
+    {
+      "name": "Senna",
+      "folder": "senna"
+    },
+    {
+      "name": "Seraphine",
+      "folder": "seraphine"
+    },
+    {
+      "name": "Sett",
+      "folder": "sett"
+    },
+    {
+      "name": "Shaco",
+      "folder": "shaco"
+    },
+    {
+      "name": "Shen",
+      "folder": "shen"
+    },
+    {
+      "name": "Shyvana",
+      "folder": "shyvana"
+    },
+    {
+      "name": "Singed",
+      "folder": "singed"
+    },
+    {
+      "name": "Sion",
+      "folder": "sion"
+    },
+    {
+      "name": "Sivir",
+      "folder": "sivir"
+    },
+    {
+      "name": "Skarner",
+      "folder": "skarner"
+    },
+    {
+      "name": "Smolder",
+      "folder": "smolder"
+    },
+    {
+      "name": "Sona",
+      "folder": "sona"
+    },
+    {
+      "name": "Soraka",
+      "folder": "soraka"
+    },
+    {
+      "name": "Swain",
+      "folder": "swain"
+    },
+    {
+      "name": "Sylas",
+      "folder": "sylas"
+    }
+  ]
+}
