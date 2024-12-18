@@ -36,9 +36,10 @@ export class GamePresentationComponent implements OnInit, OnDestroy {
   private listenerMessages(): void {
     this.tmiClientService.client.on(
       'message',
-      (_channel, _tags, message, self) => {
+      (_channel, tags, message, self) => {
         if (self) return;
-        if (message === '!champs') this.stepService.guessChampStep();
+        if (message === '!champs' && tags['username'] === 'embeejayz')
+          this.stepService.guessChampStep();
       }
     );
   }
