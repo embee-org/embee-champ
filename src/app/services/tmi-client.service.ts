@@ -1,3 +1,4 @@
+import { CHANNEL } from '@/consts/twitch';
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import tmi from 'tmi.js';
@@ -10,7 +11,7 @@ export class TmiClientService {
   constructor() {
     this.client = new tmi.Client({
       options: { debug: true },
-      channels: ['embeejayz'],
+      channels: [CHANNEL],
     });
   }
 

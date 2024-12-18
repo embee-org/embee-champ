@@ -1,3 +1,4 @@
+import { CHANNEL } from '@/consts/twitch';
 import { StepsService } from '@/services/steps.service';
 import { TmiClientService } from '@/services/tmi-client.service';
 import { SubscriptionManager } from '@/utils/subscription-manager';
@@ -38,7 +39,7 @@ export class GamePresentationComponent implements OnInit, OnDestroy {
       'message',
       (_channel, tags, message, self) => {
         if (self) return;
-        if (message === '!champs' && tags['username'] === 'embeejayz')
+        if (message === '!champs' && tags['username'] === CHANNEL)
           this.stepService.guessChampStep();
       }
     );
