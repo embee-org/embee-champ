@@ -33,7 +33,7 @@ export class SkillsService {
     this.showRandomSkill();
     this.timer = setInterval(() => {
       this.showRandomSkill();
-    }, 10000);
+    }, 15000);
   }
 
   destroy(): void {

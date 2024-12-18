@@ -491,6 +491,46 @@
     {
       "name": "Sylas",
       "folder": "sylas"
+    },
+    {
+      "name": "Syndra",
+      "folder": "syndra"
+    },
+    {
+      "name": "Tahm Kench",
+      "folder": "tahmkench"
+    },
+    {
+      "name": "Taliyah",
+      "folder": "taliyah"
+    },
+    {
+      "name": "Talon",
+      "folder": "talon"
+    },
+    {
+      "name": "Taric",
+      "folder": "taric"
+    },
+    {
+      "name": "Teemo",
+      "folder": "teemo"
+    },
+    {
+      "name": "Thresh",
+      "folder": "thresh"
+    },
+    {
+      "name": "Tristana",
+      "folder": "tristana"
+    },
+    {
+      "name": "Trundle",
+      "folder": "trundle"
+    },
+    {
+      "name": "Tryndamere",
+      "folder": "tryndamere"
     }
   ]
 }
